@@ -3,7 +3,6 @@
 A simple animation of the Julia Set.
 
 <hr>
-
 <!-- ![Julia Set](/julia_set.gif) -->
 
 <div align="center">
